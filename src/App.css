@@ -40,6 +40,7 @@ button {
   margin-top: 50px;
   border-radius: 4px;
   padding: 30px;
+  margin-bottom: 30px;
 }
 .content > p {
   font-size: 22px;
