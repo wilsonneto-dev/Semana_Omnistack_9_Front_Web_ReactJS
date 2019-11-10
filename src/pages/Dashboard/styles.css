@@ -30,3 +30,30 @@ ul.spot-list li spam {
   font-size: 15px;
   color: #999;
 }
+
+ul.notifications {
+  list-style: none;
+  margin-bottom: 15px; 
+}
+
+ul.notifications li {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+ul.notifications li button {
+  margin-left: 10px;
+  border: 0;
+  font-weight: bold;
+  margin-top: 2px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+ul.notifications li button.accept {
+  color: #54c870;
+}
+
+ul.notifications li button.reject {
+  color: #e55e5e;
+}
